@@ -1,8 +1,8 @@
 # Hi I am Estefani👋 | Front-end Developer 🚀
- <p>I enjoy building interactive and user-friendly web applications. I'm constantly exploring new technologies and frameworks to expand my skills and knowledge.
-Through this repository, I hope to share my progress and collaborate with other developers. I'm open to feedback, suggestions, and opportunities to learn from the community. Feel free to explore my projects, dive into the code, and get a glimpse of my journey as a junior web developer.
-                               Let's connect, share ideas, and inspire each other!! ✨
-</p> 
+ <p>I enjoy building interactive and user-friendly <strong>web applications</strong>. I'm constantly exploring new technologies and frameworks to expand my skills and knowledge.</p>
+<p>Through this repository, I hope to share my progress and collaborate with other developers. I'm open to feedback, suggestions, and opportunities to learn from the community. Feel free to explore my projects, dive into the code, and get a glimpse of my journey as a junior web developer.</p> 
+                              ###### Let's connect, share ideas, and inspire each other!! ✨
+
 
 ![6ed641d2f45247be9b8c997a83a0f4f5-sticker](https://github.com/estefaninoely/estefaninoely/assets/123647763/2fa4221f-be61-4077-a2b9-f7a04d452072)
 
