@@ -32,7 +32,7 @@
 ![](https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 
 # Get in touch 📮
-- Email: <p style="color:blue"> estefaninoely@gmail.com </p>
+- Email: <a style="color:blue"> estefaninoely@gmail.com </a>
 - Linkdln: <a style="color:blue" href="https://www.linkedin.com/in/estefani-lópez-564a75279/" target="_blank">linkdln.estefani</a>
 
 <!--
