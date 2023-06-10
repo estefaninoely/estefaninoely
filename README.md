@@ -5,7 +5,7 @@
 ### Let's connect, share ideas, and inspire each other✨
 
 
-<img src="https://github.com/estefaninoely/estefaninoely/assets/123647763/2fa4221f-be61-4077-a2b9-f7a04d452072" width="200" height="100">
+<img src="https://github.com/estefaninoely/estefaninoely/assets/123647763/2fa4221f-be61-4077-a2b9-f7a04d452072" width="200" height="200">
 
 # With me you can speak  🤝
 - Spanish
