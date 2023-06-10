@@ -3,7 +3,7 @@
 <p>Through this repository, I hope to share my progress and collaborate with other developers. I'm open to feedback, suggestions, and opportunities to learn from the community. Feel free to explore my projects, dive into the code, and get a glimpse of my journey as a junior web developer!</p> 
 
 <div style="display:flex">
-<p> Let's connect, share ideas, and inspire each other✨</p>
+<center> Let's connect, share ideas, and inspire each other✨</center>
  <img src="https://github.com/estefaninoely/estefaninoely/assets/123647763/2fa4221f-be61-4077-a2b9-f7a04d452072" width="200" height="200">
 </div>
 
