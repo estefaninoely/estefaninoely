@@ -1,4 +1,5 @@
-# Hi I am Estefani👋 # Front-end Developer 🚀
+# Hi I am Estefani👋 
+# Front-end Developer 🚀
  <p>I enjoy building interactive and user-friendly web applications. I'm constantly exploring new technologies and frameworks to expand my skills and knowledge.
 Through this repository, I hope to share my progress and collaborate with other developers. I'm open to feedback, suggestions, and opportunities to learn from the community. Feel free to explore my projects, dive into the code, and get a glimpse of my journey as a junior web developer.
                                Let's connect, share ideas, and inspire each other!! ✨
