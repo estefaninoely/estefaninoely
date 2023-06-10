@@ -1,8 +1,7 @@
 ### Hi I am Estefani👋
-<div classname: flex>
+
 ![6ed641d2f45247be9b8c997a83a0f4f5-sticker](https://github.com/estefaninoely/estefaninoely/assets/123647763/2fa4221f-be61-4077-a2b9-f7a04d452072)
-  <div>description<div/>
-<div/>
+
 
 <!--
 **estefaninoely/estefaninoely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
