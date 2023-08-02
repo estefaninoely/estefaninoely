@@ -8,7 +8,7 @@
 </div>
 
 
-## With me you can speak  🤝
+## With me you can speak  🤝🗣️
 - Spanish
 - English 
 - German
